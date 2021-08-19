@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://qurious.co.in:8080/api/{session}",
+      "url": "https://qurious.co.in/api/{session}",
       "variables": {
         "session": {
           "default": "NERDWHATS_AMERICA",
