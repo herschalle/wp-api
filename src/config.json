@@ -1,6 +1,6 @@
 {
   "secretKey": "HldVHdJKdguadGKdH",
-  "host": "https://vezelloc.com",
+  "host": "https://vezello.com",
   "port": "8080",
   "startAllSession": true,
   "tokenStoreType": "file",
