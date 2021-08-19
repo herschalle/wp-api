@@ -1,6 +1,6 @@
 {
   "secretKey": "HldVHdJKdguadGKdH",
-  "host": "https://vezello.com",
+  "host": "https://qurious.co.in",
   "port": "8080",
   "startAllSession": true,
   "tokenStoreType": "file",
