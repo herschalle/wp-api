@@ -1,7 +1,7 @@
 {
   "secretKey": "HldVHdJKdguadGKdH",
-  "host": "https://qurious.co.in",
-  "port": "8080",
+  "host": "https://upstatiq.com",
+  "port": "3000",
   "startAllSession": true,
   "tokenStoreType": "file",
   "webhook": {
