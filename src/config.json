@@ -1,6 +1,6 @@
 {
   "secretKey": "HldVHdJKdguadGKdH",
-  "host": "https://qurious.co.in",
+  "host": "http://localhost",
   "port": "3000",
   "startAllSession": true,
   "tokenStoreType": "file",
