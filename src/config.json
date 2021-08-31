@@ -1,6 +1,6 @@
 {
   "secretKey": "HldVHdJKdguadGKdH",
-  "host": "https://designstudio.store",
+  "host": "https://qurious.co.in",
   "port": "3000",
   "startAllSession": true,
   "tokenStoreType": "file",
@@ -27,6 +27,8 @@
     "headless":true,
     "browserArgs": [
     "--no-sandbox",
+    "--headless",
+    "--disable-gpu",  
     "--disable-setuid-sandbox"
     ]
   },
