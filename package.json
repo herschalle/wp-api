@@ -21,7 +21,9 @@
     "swagger:copy-assets": "shx cp -R ./node_modules/swagger-ui-dist ./swagger-docs",
     "swagger:copy-json": "shx cp ./src/swagger.json ./swagger-docs",
     "swagger:fix-url": "sed -i \"s|https://petstore.swagger.io/v2/swagger.json|./swagger.json|g\" ./swagger-docs/index.html",
-    "swagger:generate": "yarn swagger:copy-assets && yarn swagger:copy-json && yarn swagger:fix-url"
+    "swagger:generate": "yarn swagger:copy-assets && yarn swagger:copy-json && yarn swagger:fix-url",
+    "getchrome": "wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb",
+    "installchrome": "sudo apt install ./google-chrome-stable_current_amd64.deb"
   },
   "config": {
     "commitizen": {
