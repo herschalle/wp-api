@@ -1,6 +1,6 @@
 {
   "secretKey": "HldVHdJKdguadGKdH",
-  "host": "http://localhost",
+  "host": "https://vezello.livet",
   "port": "3000",
   "startAllSession": true,
   "tokenStoreType": "file",
