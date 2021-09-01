@@ -1,6 +1,6 @@
 {
   "secretKey": "HldVHdJKdguadGKdHADQiwmrU",
-  "host": "https://vezello.livet",
+  "host": "https://vezello.live",
   "port": "3000",
   "startAllSession": true,
   "tokenStoreType": "file",
